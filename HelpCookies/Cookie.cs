@@ -12,7 +12,7 @@ namespace HelpCookies
 {
     public partial class Cookie : Form
     {
-        private int time;
+        private int time; 
 
         public Cookie()
         {
